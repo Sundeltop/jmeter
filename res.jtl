@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603036213378,2119,/-127,200,OK,Homework 1-1,text,true,,6848,366,1,1,https://demo.nopcommerce.com/,2116,0,542
+1603036215499,2214,/search-131,200,OK,Homework 1-1,text,true,,6493,418,1,1,https://demo.nopcommerce.com/search?q=htc,2214,0,0
+1603036218072,1223,/htc-one-m8-android-l-50-lollipop,200,OK,Homework 1-1,text,true,,38669,157,1,1,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,987,0,0
+1603036219307,1,Debug Sampler,200,OK,Homework 1-1,text,true,,490,0,1,1,null,0,0,0
+1603036219308,1064,/addproducttocart/details/4/1-149,200,OK,Homework 1-1,text,true,,2009,737,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,1064,0,0
+1603036220373,340,/cart-153,200,OK,Homework 1-1,text,true,,4844,444,1,1,https://demo.nopcommerce.com/cart,340,0,0
+1603036220714,1454,/search-131,200,OK,Homework 1-1,text,true,,6529,418,1,1,https://demo.nopcommerce.com/search?q=htc,1454,0,0
+1603036222187,512,/htc-one-mini-blue,200,OK,Homework 1-1,text,true,,39663,142,1,1,https://demo.nopcommerce.com/htc-one-mini-blue,507,0,0
+1603036222699,0,Debug Sampler,200,OK,Homework 1-1,text,true,,460,0,1,1,null,0,0,0
+1603036222699,331,/addproducttocart/details/4/1-149,200,OK,Homework 1-1,text,true,,2009,737,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,331,0,0
+1603036223030,374,/cart-153,200,OK,Homework 1-1,text,true,,4827,444,1,1,https://demo.nopcommerce.com/cart,374,0,0
